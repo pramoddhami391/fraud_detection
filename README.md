@@ -1,4 +1,5 @@
 <b>Fraud Detection Machine Learning ProjectFraud Detection Machine Learning Project<b>
+<br>
 This project focuses on identifying fraudulent financial transactions using a Machine Learning model and deploying it through a Streamlit web application. The model achieves approximately 94% accuracy in detecting fraud within a dataset of over 6 million records.
 Project Overview
 The goal of this project is to create an end-to-end data science solution that includes:
